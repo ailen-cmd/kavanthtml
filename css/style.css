@@ -1,1 +1,35 @@
- 
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logom {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.kab {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.spec {
+    display: flex;
+    justify-content: center;
+    margin-right: 400px;
+    
+}
+.special {
+    display: flex;
+    justify-content: center;
+}
+
+.goods {
+    display: flex;
+    justify-content: center;
+}
